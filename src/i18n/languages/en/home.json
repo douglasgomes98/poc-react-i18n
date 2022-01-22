@@ -1,0 +1,7 @@
+{
+  "home.introduction": "Introduction",
+  "home.welcome": "Welcome to React and react-i18next",
+  "home.message": "A simple message",
+  "home.description": "How to properly internationalize a React application using i18next",
+  "home.changelanguage": "Change language"
+}
